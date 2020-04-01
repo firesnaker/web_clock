@@ -29,8 +29,10 @@ body {
 	border-radius: 50%; /*make it round*/
 	overflow: hidden; /*hide the box inside the circle*/
 
-	border: 15px solid #ff5f5f;
+	border: 25px solid #ff5f5f;
 	background-color: #fff;
+	
+	box-shadow: -2px 2px 0 #e23232, inset 0 0 25px rgba(0, 0, 0, 0.5);
 }
 
 .clock .num {
