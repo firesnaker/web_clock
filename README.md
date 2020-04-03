@@ -1,4 +1,4 @@
-# analog_clock
+# Web Clock
 Analog Clock 
 
 Javascript analog clock created using tutorial on YouTube:
